@@ -1,0 +1,11 @@
+myfamily={
+    "child1":{
+    "name":"satish",
+    "year":2005
+    },
+    "child2":{
+    "name":"sairam",
+    "year":2012
+    },
+}
+print(myfamily)
